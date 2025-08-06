@@ -1,0 +1,29 @@
+{
+  "users": [
+    {"id": 1, "name": "Amit", "friends": [2, 3], "liked_pages": [101, 102, 105, 106]},
+    {"id": 2, "name": "Priya", "friends": [1, 4, 5], "liked_pages": [102, 104, 105, 107]},
+    {"id": 3, "name": "Rahul", "friends": [1, 6], "liked_pages": [101, 103, 104, 106]},
+    {"id": 4, "name": "Sara", "friends": [2, 5, 7], "liked_pages": [104, 105, 106, 108]},
+    {"id": 5, "name": "Vikram", "friends": [2, 4, 7], "liked_pages": [102, 105, 106, 109]},
+    {"id": 6, "name": "Sneha", "friends": [3, 8, 9], "liked_pages": [101, 103, 106, 110]},
+    {"id": 7, "name": "Anjali", "friends": [4, 5], "liked_pages": [101, 104, 106, 110]},
+    {"id": 8, "name": "Rohit", "friends": [6, 9], "liked_pages": [104, 105, 108, 109]},
+    {"id": 9, "name": "Neha", "friends": [6, 8, 10], "liked_pages": [102, 106, 107, 110]},
+    {"id": 10, "name": "Karan", "friends": [9], "liked_pages": [101, 106, 107, 108]},
+    {"id": 11, "name": "Isha", "friends": [12, 13], "liked_pages": [103, 106, 108, 109]},
+    {"id": 12, "name": "Manav", "friends": [11, 13], "liked_pages": [102, 106, 109, 110]},
+    {"id": 13, "name": "Divya", "friends": [11, 12], "liked_pages": [101, 103, 106, 110]}
+  ],
+  "pages": [
+    {"id": 101, "name": "Python Developers"},
+    {"id": 102, "name": "Data Science Enthusiasts"},
+    {"id": 103, "name": "AI & ML Community"},
+    {"id": 104, "name": "Web Dev Hub"},
+    {"id": 105, "name": "Cyber Security Zone"},
+    {"id": 106, "name": "Frontend Fanatics"},
+    {"id": 107, "name": "Gaming & Esports"},
+    {"id": 108, "name": "Cloud & DevOps"},
+    {"id": 109, "name": "Startup Founders"},
+    {"id": 110, "name": "Tech Book Club"}
+  ]
+}
